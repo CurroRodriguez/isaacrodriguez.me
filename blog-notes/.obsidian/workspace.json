@@ -11,12 +11,10 @@
             "id": "82ff9559435319ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blog Notes.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -148,6 +156,23 @@
   },
   "active": "82ff9559435319ba",
   "lastOpenFiles": [
-    "Blog Notes.md"
+    "2 - areas/infrastructure/blog notes.md",
+    "1 - projects/mirror-me/mirror-me-notes.canvas",
+    "Blog Notes.md",
+    "1 - projects/dependency-inversion-principle/dip.canvas",
+    "1 - projects/mirror-me",
+    "1 - projects/interface-segregation-principle/isp.canvas",
+    "1 - projects/dependency-inversion-principle",
+    "1 - projects/liskov-substitution-principle/lsp.canvas",
+    "1 - projects/interface-segregation-principle",
+    "1 - projects/open-closed-principle/ocp.canvas",
+    "1 - projects/liskov-substitution-principle",
+    "1 - projects/single-responsibility-principle/srp.canvas",
+    "1 - projects/open-closed-principle",
+    "1 - projects/single-responsibility-principle",
+    "2 - areas/infrastructure",
+    "4 - archive",
+    "3 - resources",
+    "2 - areas"
   ]
 }
