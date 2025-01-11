@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"aabfb6000d9c697a","x":-420,"y":-360,"width":250,"height":120,"type":"text","text":"A class should only derive from another class to model an `iis a` relationship."}
+	],
+	"edges":[]
+}

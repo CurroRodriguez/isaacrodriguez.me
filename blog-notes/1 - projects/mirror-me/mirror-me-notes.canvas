@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e64e3e6ea05064c3","x":-440,"y":-320,"width":250,"height":60,"type":"text","text":"Horrible characters"},
+		{"id":"7bf0ff458d126a57","x":-440,"y":-200,"width":250,"height":60,"type":"text","text":"Unique. Hard to define the genre."}
+	],
+	"edges":[]
+}

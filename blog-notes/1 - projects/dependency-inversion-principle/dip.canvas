@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"ff565dd1194d4a8a","x":-125,"y":-30,"width":250,"height":130,"type":"text","text":"Generic business logic should depend on concrete implementations."}
+	],
+	"edges":[]
+}
